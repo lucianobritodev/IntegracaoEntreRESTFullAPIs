@@ -1,0 +1,14 @@
+/.metadata/
+/RemoteSystemsTempFiles
+
+#Consumer
+/ProductsConsumer/.settings
+/ProductsConsumer/.classpath
+/ProductsConsumer/.project
+/ProductsConsumer/target/
+
+#Producer
+/ProductsProducer/.settings 
+/ProductsProducer/.classpath
+/ProductsProducer/.project 
+/ProductsProducer/target/
