@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Aplicação criada para ilustrar um cenário real onde é necessário criar integração entre sistemas, consumo de apis internas ou externas ou comunicação entre microsserviços usando Rest. A aplicação foi desenvolvida em Java com SpringBoot, SpringDataJPA e persistência no SGBD Postgres.
+Aplicação criada para ilustrar um cenário real onde é necessário criar integração entre sistemas, consumo de apis internas e externas ou comunicação entre microsserviços usando Rest. A aplicação foi desenvolvida em Java com SpringBoot, SpringDataJPA e persistência no SGBD Postgres.
 
 
 ## Contribuidor
